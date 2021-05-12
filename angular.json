@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "coinflip"
+  "defaultProject": "coinflip",
+  "cli": {
+    "analytics": false
+  }
 }
